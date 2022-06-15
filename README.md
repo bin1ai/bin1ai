@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @bin1ai
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning Korean
+- 💞️ I’m looking to collaborate on Github
+- 📫 Reach me via [iClass](https://iClass.cc)
